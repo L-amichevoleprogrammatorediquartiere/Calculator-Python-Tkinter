@@ -1,2 +1,2 @@
 # Calculator-Python-Tkinter
-A simple calculator maked in python
+A simple calculator made in python
